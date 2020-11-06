@@ -13,7 +13,8 @@ log4js_extend(log4js, {
 var logger = log4js.getLogger();
 logger.level = 'debug';
 
-var roomId = "Y2lzY29zcGFyazovL3VzL1JPT00vZjViOTA0MjAtNmU5Zi0xMWVhLThhYjEtOTNhNjM4NzZjMzlh";
+// var roomId = "Y2lzY29zcGFyazovL3VzL1JPT00vZjViOTA0MjAtNmU5Zi0xMWVhLThhYjEtOTNhNjM4NzZjMzlh"; // doernes Room
+var roomId = "Y2lzY29zcGFyazovL3VzL1JPT00vYzczOTljMzAtMjAwYy0xMWViLWE2ZTEtNGQ5YzI1NDc0MWIx"; // LeadNotification
 var auth = 'Bearer OGQ3NjA5MGEtZDQ4NC00NzlkLTlhMmItMTcxMDczZDA3NWMzNGI2MzEyOGMtMTBl_PF84_6fb6a033-5d29-44a4-aa90-8d39981f5cef';
 var lineBreak = '  \n';
 
